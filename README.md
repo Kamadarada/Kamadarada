@@ -2,8 +2,8 @@
 
 
 
-- 📜 Atualmente cursando Análise e desenvolvimento de sistemas- Fatec/Taquaritinga
-- 💡 Aprendendo sobre HTML, javascript, C++ e CSS;
+- 📜 Currently studying Analysis and systems development- Fatec/Taquaritinga
+- 💡 Learning about HTML, javascript, CSS & C++; 
 - 📫 felipekamada2@gmail.com
 
 
