@@ -1,12 +1,8 @@
 ### Olá! Sou Felipe Kamada
 
-
-
 - 📜 Currently studying Analysis and systems development- Fatec/Taquaritinga
 - 💡 Learning about HTML, javascript, CSS & C++; 
 - 📫 felipekamada2@gmail.com
-
-
 
 <div align="center">
   <a href="https://github.com/Kamadarada">
