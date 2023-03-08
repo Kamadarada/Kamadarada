@@ -1,7 +1,7 @@
 ### Hi! i'm Felipe Kamada
 
 - 📜 Currently studying Analysis and systems development - Fatec/Taquaritinga
-- 💡 Learning about HTML, javascript, CSS & C++; 
+- 💡 Learning about HTML, CSS, JavaScript, C++ & C#; 
 - 📫 felipekamada2@gmail.com
 
 <div align="center">
