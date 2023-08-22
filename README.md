@@ -7,12 +7,12 @@
 <div align="center">
   <a href="https://github.com/Kamadarada">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kamadarada&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamadarada&layout=compact&langs_count=7&theme=dracula"/>
+  <!--<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamadarada&layout=compact&langs_count=7&theme=dracula"/>!-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamadarada&langs_count=10&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Top Languages">
+    
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamadarada&langs_count=10&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Top Languages">
-</p>
+
 
   
 
