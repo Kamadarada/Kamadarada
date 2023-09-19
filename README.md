@@ -12,6 +12,8 @@
     
 </div>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kamadarada&repo=node-with-crud)](https://github.com/Kamadarada/crud-with-node)
+
 
 
   
