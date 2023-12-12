@@ -23,8 +23,8 @@
 <div align="center"> 
   <h2>🚀 Projects</h2>
   
-  - [Crud with node](#): <a href="https://github.com/Kamadarada/node-prisma">A simple crud using node and prism orm</a>
-  - [CoffeeBreak ☕](#): <a href="https://github.com/Psykka/CoffeeBreak">Application to manage coffee withdrawals</a>
+  - Crud with node: <a href="https://github.com/Kamadarada/node-prisma">A simple crud using node and prism orm</a>
+  - CoffeeBreak ☕: <a href="https://github.com/Psykka/CoffeeBreak">Application to manage coffee withdrawals</a>
 
 
   <!-- Feel free to add more projects with the same format -->
