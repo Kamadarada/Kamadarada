@@ -1,7 +1,7 @@
 ### Hi there, I'm Felipe Kamada! 👋
 
-- 📜 Currently studying Analysis and Systems Development at Fatec/Taquaritinga.
-- 💡 Learning HTML, CSS, JavaScript, Node.js, C++, and C#.
+- 📜 Currently studying Analysis and Systems Development.
+- 💡 Current technologies: Next, Typescript, MongoDB, Azure, GraphQL .
 - 📫 Contact me: [felipekamada2@gmail.com](mailto:felipekamada2@gmail.com)
 
 <div align="center" style="display: inline_block; "margin-top:20px;>
