@@ -1,9 +1,5 @@
 ### Hi there, I'm Felipe Kamada! 👋
 
-- 📜 Currently studying Analysis and Systems Development.
-- 💡 Current technologies: Next, Typescript, MongoDB, Azure, GraphQL .
-- 📫 Contact me: [felipekamada2@gmail.com](mailto:felipekamada2@gmail.com)
-
 <div align="center" style="display: inline_block; "margin-top:20px;>
   <a href="https://github.com/Kamadarada">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Kamadarada&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -15,17 +11,22 @@
   <h2>Languages & Frameworks</h2>
   <img alt="Node.js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="React" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="JavaScript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img alt="Typescript" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img alt="MySQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img alt="C#" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<div align="center"> 
+<div align="center" style="display: flex; flex-direction: column; align-items: center;"> 
   <h2>🚀 Projects</h2>
   
-  - Crud with node: <a href="https://github.com/Kamadarada/node-prisma">A simple crud using node and prism orm</a>
-  - CoffeeBreak ☕: <a href="https://github.com/Psykka/CoffeeBreak">Application to manage coffee withdrawals</a>
-
+  <p>
+    Crud with Node: 
+    <a href="https://github.com/Kamadarada/node-prisma">A simple CRUD using Node.js and Prisma ORM</a>
+  </p>
+  <p>
+    CoffeeBreak ☕: 
+    <a href="https://github.com/Psykka/CoffeeBreak">Application to manage coffee withdrawals</a>
+  </p>
 </div>
 
 <div align="center"> 
