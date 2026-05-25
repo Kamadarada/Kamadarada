@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Apaixonado por construir produtos do zero — da API ao componente.<br/>
+  Apaixonado por construir produtos do zero - da API ao componente.<br/>
   📍 Taquaritinga, SP · Brasil 🇧🇷
 </p>
 
